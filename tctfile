@@ -74,7 +74,7 @@ BOTS:
   # ========================================
   # BOT 1: Primary (ACTIVE)
   # ========================================
-  - SESSION_ID: "tct_bae9530d"              
+  - SESSION_ID: "tct_62216g315"              
     TIMEZONE: "Africa/Nairobi"             
     PREFIX: "."                           
 
